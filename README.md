@@ -1,1 +1,0 @@
-# finite_frequency_forward_modeling
